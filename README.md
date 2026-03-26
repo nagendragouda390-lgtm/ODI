@@ -5,8 +5,8 @@ Cricket match
 
 ![Match Graph](file_00000000d74071faac31f45eb8af0ec6.png)
 
-### Example graph 
-![Match Graph2](IMG_20260326_132552.jpg)
+<h2>📊 Match Output</h2>
+<img src="IMG_20260326_132552.jpg" width="80%">
 
 # Teams
 England vs New Zealand 
