@@ -1,7 +1,7 @@
 # ODI
 Cricket match
 
-## 📊 Output
+## 📊 THE FINAL 
 
 ![Match Graph](file_00000000d74071faac31f45eb8af0ec6.png)
 
