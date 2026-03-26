@@ -1,6 +1,10 @@
 # ODI
 Cricket match
 
+## 📊 Output
+
+![Match Graph](file_00000000d74071faac31f45eb8af0ec6.png)
+
 # Teams
 England vs New Zealand 
 
@@ -18,9 +22,7 @@ matplotlibs
 random
 
 
-## 📊 Output
 
-![Match Graph](file_00000000d74071faac31f45eb8af0ec6.png)
 
 
 
