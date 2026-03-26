@@ -18,4 +18,9 @@ matplotlibs
 random
 
 
+## 📊 Output
+
+![Match Graph](output.png)
+
+
 
