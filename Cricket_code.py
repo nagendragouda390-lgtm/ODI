@@ -51,7 +51,7 @@ for i in range(1,301):
     if team1_wicket == 10:
         break 
     
-s ball by ball simulation of New Zealand batting 
+# ball by ball simulation of New Zealand batting 
 
 for k in range(1,301):
    
