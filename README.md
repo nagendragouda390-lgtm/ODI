@@ -10,7 +10,7 @@ NEWZEALAND vs ENGLAND
 ![Match Graph](file_00000000d74071faac31f45eb8af0ec6.png)
 
 <h2>📊 Match Output</h2>
-<img src="IMG_20260326_132552.jpg" width="300"  height = "400" >< imge src = "new-zealand-cricket-logo-png_seeklogo-370601.png">
+<img src="IMG_20260326_132552.jpg" width="300"  height = "400" >< img src = "new-zealand-cricket-logo-png_seeklogo-370601.png">
 
 # Teams
 England vs New Zealand 
