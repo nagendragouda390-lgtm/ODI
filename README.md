@@ -15,6 +15,9 @@ NEWZEALAND vs ENGLAND
 # Teams
 England vs New Zealand 
 
+<img src="England_cricket_team_logo.svg" width="300"  height = "300" >
+
+
 # overs
 50 overs
 300 balls
