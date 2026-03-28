@@ -26,15 +26,25 @@ England vs New Zealand
 300 balls
 
 # Some realastics
-real powerplay like scoing
-real consolidation at middle over
-explotion at death overs
+real powerplay like scoing,
+real consolidation at middle over,
+explotion at death overs,
 
 # libraries and modules used
 matplotlibs 
 random
 
-#### Phyton 
+# Phyton 
+for loops ,
+linear graph
+
+# design 
+different colour graph for both team,
+target line,
+result on graph 
+
+
+
 
 
 
