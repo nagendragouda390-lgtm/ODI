@@ -6,7 +6,7 @@ import random
 
 # chances for a ball
 
-ch = [0,1,2,3,4,6,'w']
+ch = [0,1,2,3,4,6,'w','wd']
 
 # variables like runs wickets over and stats
 
@@ -27,52 +27,60 @@ target_over = [0]
 
 # ball by ball simulation of England batting 
 
-for i in range(1,301):
-    if i > 270:
+while ball1 < 300:
+    if ball1 > 270:
         prob = [40,20,10,5,20,20,5]
-    elif i <61:
+    elif ball1 <61:
         prob = [80,30,1,0.5,20,15,5]
     else:
         prob=[70,80,10,3,5,2,5]
     if team1_wicket > 7:
         prob = [0.6,0.6,0.1,0.01,0.02,0.01,0.5]
     run1 = random.choices(ch,prob)[0]
-    
-    if run1 =='w':
+    if run1 == 'wd':
+        team1_run += 1
+        run_graph1.append(team1_run)
+        ball_graph1.append(ball1)
+    elif run1 =='w':
+        ball1 += 1
         wicket_run1.append(team1_run)
-        wicket_ball1.append(i/6)
+        wicket_ball1.append(ball1/6)
         team1_wicket += 1
         run_graph1.append(team1_run)
-        ball_graph1.append(i/6)
+        ball_graph1.append(ball1/6)
     else:
+        ball1 += 1
         team1_run += run1
         run_graph1.append(team1_run)
-        ball_graph1.append(i/6)
+        ball_graph1.append(ball1/6)
     if team1_wicket == 10:
         break 
     
 # ball by ball simulation of New Zealand batting 
 
-for k in range(1,301):
+while ball2 < 300:
    
-    if k > 270:
+    if ball2 > 270:
         prob = [40,20,10,5,20,20,5]
-    elif k <61:
+    elif ball2 <61:
         prob = [80,30,1,0.5,20,15,5]
     else:
         prob=[70,80,10,3,5,2,5]
     if team2_wicket > 7:
         prob = [0.6,0.6,0.1,0.01,0.02,0.01,0.7]
     run2 = random.choices(ch,prob)[0]
-        
-    if run2 =='w':
+    if run2 == 'wd' :
+        team1_run += 1
+        run_graph2.append(team1_run)
+        ball_graph2.append(ball2)
+    elif run2 =='w':
         wicket_run2.append(team2_run)
-        wicket_ball2.append(k/6)
+        wicket_ball2.append(ball2/6)
         team2_wicket += 1
     else:
         team2_run += run2
         run_graph2.append(team2_run)
-        ball_graph2.append(k/6)
+        ball_graph2.append(ball2/6)
     if k == 150:
          wicket = team2_wicket
     if team2_wicket == 10 or team2_run > team1_run:
