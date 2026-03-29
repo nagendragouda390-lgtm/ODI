@@ -35,11 +35,11 @@ real consolidation at middle over,
 explotion at death overs,
 
 # libraries and modules used
-matplotlibs 
+matplotlibs ,                                                    
 random
 
 # Phyton 
-for loops ,
+while loos ,  for loop ,
 linear graph
 
 # design 
