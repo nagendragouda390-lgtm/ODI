@@ -49,8 +49,8 @@ result on graph
 
 
 
-
-[Watch the Video](https://youtu.be/_uQrJ0TkZlc)
+# To learn phyton 
+[Watch this Video for simple tutorial](https://youtu.be/_uQrJ0TkZlc)
 
 
 
