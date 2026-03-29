@@ -52,7 +52,8 @@ result on graph
 # To learn phyton 
 [Watch this Video for simple tutorial](https://youtu.be/_uQrJ0TkZlc)
 
-#To practice code in mobile 
+# To practice code in mobile
+ 
 [ PYDROID 3 ](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3)
 
 
