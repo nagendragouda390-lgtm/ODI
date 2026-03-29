@@ -56,6 +56,8 @@ result on graph
  
 [ PYDROID 3 ](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3)
 
+# To get free certificate [sololearn](https://play.google.com/store/apps/details?id=com.sololearn)
+
 
 
 
