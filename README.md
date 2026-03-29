@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Status](https://img.shields.io/badge/Project-Active-green)
+
+
 ## One day internationals 
 NEWZEALAND vs ENGLAND 
 
@@ -42,8 +46,6 @@ linear graph
 different colour graph for both team,
 target line,
 result on graph 
-![Python](https://img.shields.io/badge/Python-3.10-blue)
-![Status](https://img.shields.io/badge/Project-Active-green)
 
 
 
