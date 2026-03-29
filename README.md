@@ -48,13 +48,9 @@ target line,
 result on graph 
 
 
-<iframe width="560" height="315" 
-src="https://www.youtube.com/embed/_uQrJ0TkZlc" 
-title="YouTube video player" 
-frameborder="0" 
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen>
-</iframe>
+
+
+[Watch the Video](https://youtu.be/_uQrJ0TkZlc)
 
 
 
